@@ -47,6 +47,8 @@ dependencies = [
     "typing-extensions>=4.8.0",
     "typing-inspection>=0.4.2",
     "annotated-doc>=0.0.2",
+
+  "fastapi==0.129.2"
 ]
 
 [project.urls]
